@@ -86,7 +86,7 @@ terms_by_country = {
    'Guatemala': ['s.a.', 'sa'],
    'Haiti': ['sa'],
    'Hong Kong': ['ltd', 'unltd', 'ultd', 'limited'],
-   'Hungary': ['e.v.', 'e.c.', 'bt.', 'kft.', 'kht.', 'kkt.', 'k.v.', 'zrt.', 'nyrt',
+   'Hungary': ['e.v.', 'e.c.', 'bt.', 'kft', 'kft.', 'kht.', 'kkt.', 'k.v.', 'zrt.', 'nyrt',
       'ev', 'ec', 'rt.'
    ],
    'Iceland': ['ehf.', 'hf.', 'ohf.', 's.f.', 'ses.'],
